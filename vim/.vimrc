@@ -20,6 +20,9 @@ let &t_Co=256
 colorscheme mustang
 set background=dark
 
+" always show status line
+set laststatus=2
+
 " Tabstops are 4 spaces
 set tabstop=4               " a tab is 2 spaces
 set shiftwidth=4            " number of spaces to use for autoindenting
