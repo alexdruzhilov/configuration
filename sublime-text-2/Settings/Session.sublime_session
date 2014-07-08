@@ -1,0 +1,565 @@
+{
+	"folder_history":
+	[
+		"/home/adruzhilov/Projects/alexdruzhilov/neuron",
+		"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app"
+	],
+	"last_window_id": 3,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"search",
+						"searchSubtitles"
+					],
+					[
+						"user",
+						"useragent"
+					],
+					[
+						"defe",
+						"deferred"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 96.0,
+				"selected_items":
+				[
+					[
+						"git che",
+						"Git: Checkout Current File"
+					],
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"check",
+						"Git: Checkout Current File"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"log",
+						"Git: Log Current File"
+					],
+					[
+						"si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/cache.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/providers/ysubs.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/providers/opensubtitles.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/node_modules/opensrt_js/opensrt.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/config.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/providers/cache_provider.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/models/movie_collection.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/models/show_collection.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/streamer.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/node_modules/bower/lib/config.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/README.md",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/node_modules/opensrt_js/package.json",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/node_modules/opensrt_js/README.md",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/.gitignore"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"download",
+					"client",
+					"xmlrpc",
+					"getItems",
+					"subtitleProvider",
+					"getSubtitles",
+					"Providers.CacheProvider",
+					"getProvider('subtitle')",
+					"'subtitle'",
+					"tvshowsubtitle",
+					"OpenSubtitles",
+					".query(",
+					"subtitle",
+					"query",
+					"YSubs",
+					"providers.subtitle",
+					"sub",
+					"querySubtitles",
+					"OpenSubtitles",
+					"subtitle",
+					"tvshowsubtitle",
+					"OpenSubtitles"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.git":
+			{
+				"height": 112.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"config",
+						"src/app/lib/config.js"
+					],
+					[
+						"confi",
+						"node_modules/bower/lib/config.js"
+					],
+					[
+						"cache",
+						"src/app/lib/cache.js"
+					],
+					[
+						"open",
+						"node_modules/opensrt_js/opensrt.js"
+					],
+					[
+						"cachepro",
+						"src/app/lib/providers/cache_provider.js"
+					],
+					[
+						"ope",
+						"node_modules/opensrt_js/opensrt.js"
+					],
+					[
+						"movie_colle",
+						"src/app/lib/models/movie_collection.js"
+					],
+					[
+						"opensu",
+						"src/app/lib/providers/opensubtitles.js"
+					],
+					[
+						"cacheprovi",
+						"src/app/lib/providers/cache_provider.js"
+					],
+					[
+						"ys",
+						"src/app/lib/providers/ysubs.js"
+					],
+					[
+						"opensubtitles",
+						"src/app/lib/providers/opensubtitles.js"
+					],
+					[
+						"opensrt",
+						"node_modules/opensrt_js/opensrt.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 214.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"search",
+						"searchSubtitles"
+					],
+					[
+						"user",
+						"useragent"
+					],
+					[
+						"defe",
+						"deferred"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 75.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Code Folding: Unfold All"
+					],
+					[
+						"plai",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"git che",
+						"Git: Checkout Current File"
+					],
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"check",
+						"Git: Checkout Current File"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"log",
+						"Git: Log Current File"
+					],
+					[
+						"si",
+						"View: Toggle Side Bar"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/adruzhilov/Projects/alexdruzhilov/neuron/apps/neuron/src/neuron.app.src",
+				"/home/adruzhilov/Projects/alexdruzhilov/neuron/apps/neuron/src/neuron.erl",
+				"/home/adruzhilov/Projects/alexdruzhilov/neuron/.gitignore",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/cache.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/providers/ysubs.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/providers/opensubtitles.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/node_modules/opensrt_js/opensrt.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/config.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/providers/cache_provider.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/models/movie_collection.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/models/show_collection.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/src/app/lib/streamer.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/node_modules/bower/lib/config.js",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/README.md",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/node_modules/opensrt_js/package.json",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/node_modules/opensrt_js/README.md",
+				"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/.gitignore"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"download",
+					"client",
+					"xmlrpc",
+					"getItems",
+					"subtitleProvider",
+					"getSubtitles",
+					"Providers.CacheProvider",
+					"getProvider('subtitle')",
+					"'subtitle'",
+					"tvshowsubtitle",
+					"OpenSubtitles",
+					".query(",
+					"subtitle",
+					"query",
+					"YSubs",
+					"providers.subtitle",
+					"sub",
+					"querySubtitles",
+					"OpenSubtitles",
+					"subtitle",
+					"tvshowsubtitle",
+					"OpenSubtitles"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.git":
+			{
+				"height": 112.0
+			},
+			"position": "0,0,0,0,0,65,25,1600,872,1600,900",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"config",
+						"src/app/lib/config.js"
+					],
+					[
+						"confi",
+						"node_modules/bower/lib/config.js"
+					],
+					[
+						"cache",
+						"src/app/lib/cache.js"
+					],
+					[
+						"open",
+						"node_modules/opensrt_js/opensrt.js"
+					],
+					[
+						"cachepro",
+						"src/app/lib/providers/cache_provider.js"
+					],
+					[
+						"ope",
+						"node_modules/opensrt_js/opensrt.js"
+					],
+					[
+						"movie_colle",
+						"src/app/lib/models/movie_collection.js"
+					],
+					[
+						"opensu",
+						"src/app/lib/providers/opensubtitles.js"
+					],
+					[
+						"cacheprovi",
+						"src/app/lib/providers/cache_provider.js"
+					],
+					[
+						"ys",
+						"src/app/lib/providers/ysubs.js"
+					],
+					[
+						"opensubtitles",
+						"src/app/lib/providers/opensubtitles.js"
+					],
+					[
+						"opensrt",
+						"node_modules/opensrt_js/opensrt.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 214.0,
+			"status_bar_visible": true,
+			"window_id": 3,
+			"workspace_name": "/home/adruzhilov/Projects/alexdruzhilov/neuron/neuron.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/adruzhilov/Projects/alexdruzhilov/neuron/neuron.sublime-project",
+			"/home/adruzhilov/Projects/alexdruzhilov/popcorn-app/popcorn-app.sublime-project"
+		]
+	}
+}
