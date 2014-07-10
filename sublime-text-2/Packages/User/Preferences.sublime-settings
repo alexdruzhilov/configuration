@@ -1,6 +1,6 @@
 {
-	"ignored_packages":
-	[
-		"Vintage"
-	]
+	"ignored_packages":	[],
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".rebar", "rel"],
+	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.beam"],
+	"vintage_start_in_command_mode": true
 }
