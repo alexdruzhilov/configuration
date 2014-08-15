@@ -99,6 +99,9 @@ noremap <Down> <NOP>
 noremap <Left> <NOP>
 noremap <Right> <NOP>
 
+" clear selection highlight
+nnoremap <F3> :set hlsearch!<CR>
+
 " mappings to move line up/down
 " noremap <c-s-up> :call feedkeys( line('.')==1 ? '' : 'ddkP' )<CR>
 " noremap <c-s-down> ddp
