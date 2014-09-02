@@ -1,0 +1,12 @@
+[user]
+	name = Aleksandr Druzhilov
+	email = adruzhilov@unison.com
+[color]
+	ui = true
+[push]
+	default = simple
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
