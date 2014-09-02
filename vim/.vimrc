@@ -27,6 +27,8 @@ set laststatus=2
 set tabstop=4               " a tab is 2 spaces
 set shiftwidth=4            " number of spaces to use for autoindenting
 set smarttab                " insert tabs on the start of a line according to shiftwidth, not tabstop
+set smartindent
+set expandtab
 set autoindent              " always set autoindenting on
 set copyindent              " copy the previous indentation on autoindenting
 set shiftround              " use multiple of shiftwidth when indenting with '<' and '>'
@@ -78,6 +80,9 @@ autocmd filetype html,xml set listchars-=tab:>.
 
 " save file from sudo on w!!
 cmap w!! w !sudo tee % >/dev/null
+
+" map ctrl+s to save current file
+inoremap <c-s> <Esc>:Update<CR>
 
 " ctrl+h/j/k/l will to go to another window
 nnoremap <C-J> <C-W><C-J>
